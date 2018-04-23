@@ -29,6 +29,7 @@
 				"extensions": [
 					".tcl"
 				],
+				"firstLine": "^#%Module",
 				"configuration": "./tcl.configuration.json"
 			}
 		],
